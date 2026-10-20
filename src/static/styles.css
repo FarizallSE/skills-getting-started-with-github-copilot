@@ -135,6 +135,11 @@ section h3 {
   outline-offset: 2px;
 }
 
+.participant-remove-button svg {
+  width: 16px;
+  height: 16px;
+}
+
 .participant-remove-button:disabled {
   cursor: wait;
   opacity: 0.6;
